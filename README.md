@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeevsharma222
-- 👀 I’m interested in competitive programing
+- 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning web development
 - 📫 How to reach me sharmarajeev2202@gmail.com
 - I would love to contribute in the community
